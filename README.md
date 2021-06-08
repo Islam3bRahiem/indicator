@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/37911123/121207196-61107a80-c879-11eb-
 
 ## Basic Examples
 1- Add Image Indicator folder inside your project 
+
 2- inside UIImage extension change image_name with your specific name 
 ```swift
 class var indicatorImg: UIImage {
