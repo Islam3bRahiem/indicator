@@ -4,8 +4,8 @@ Use an image as indicator
 #### ImageIndicator is a Swift extension that user a specific image as indicator for application
 
 ## Preview
-https://user-images.githubusercontent.com/37911123/121207196-61107a80-c879-11eb-8032-30e1e90577eb.mov
-
+https://user-images.githubusercontent.com/37911123/121212549-c23a4d00-c87d-11eb-8169-2a3e115d0983.mov
+https://user-images.githubusercontent.com/37911123/121212554-c4041080-c87d-11eb-8a3a-4a5a6097ddc4.mov
 
 ## Basic Examples
 1- Add Image Indicator folder inside your project 
